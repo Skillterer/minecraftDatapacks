@@ -1,0 +1,1 @@
+tellraw @a {"text": "[Recarregado]","color": "#ff0077"}
