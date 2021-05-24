@@ -5,7 +5,8 @@ so when i create a new world to test my datapacks i can auto set it in 5 seconds
 ### Functions
 - /function hubber:setrules
 - /function hubber:sethub
-  - /function hubber medieval (called by sethub)
-  - /function hubber:futurist (called by sethub)
-  - /function hubber:minimalist (called by sethub)
-  - /function hubber:steampunk (called by sethub)
+  - /function hubber medieval
+  - /function hubber:futurist 
+  - /function hubber:minimalist 
+  - /function hubber:steampunk 
+  
