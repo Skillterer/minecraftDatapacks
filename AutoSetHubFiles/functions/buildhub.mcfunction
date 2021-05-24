@@ -1,6 +1,6 @@
 kill @e[type=item_frame]
 kill @e[type=armor_stand]
-setblock -16 63 -16 minecraft:structure_block[mode=load]{metadata:"",mirror:"NONE",ignoreEntities:1b,powered:0b,seed:0L,author:"?",rotation:"NONE",posX:0,mode:"LOAD",posY:1,sizeX:32,posZ:0,integrity:1.0f,showair:0b,name:"hubber:medieval",sizeY:32,sizeZ:32,showboundingbox:1b}
+setblock -16 63 -16 minecraft:structure_block[mode=load]{metadata:"",mirror:"NONE",ignoreEntities:0b,powered:0b,seed:0L,author:"?",rotation:"NONE",posX:0,mode:"LOAD",posY:1,sizeX:32,posZ:0,integrity:1.0f,showair:0b,name:"hubber:<.nbt file name>",sizeY:32,sizeZ:32,showboundingbox:1b}
 setblock -16 62 -16 minecraft:redstone_block
 kill @e[type=item]
 execute as @s run tp @a 0 66 0
